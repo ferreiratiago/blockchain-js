@@ -1,0 +1,22 @@
+{
+  "name": "blockchain-js",
+  "version": "1.0.0",
+  "description": "Let's build a blockchain",
+  "main": "node.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ferreiratiago/blockchain-js.git"
+  },
+  "keywords": [
+    "Blockchain"
+  ],
+  "author": "Tiago Lopes Ferreira",
+  "license": "ISC",
+  "homepage": "https://github.com/ferreiratiago/blockchain-js#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "sha256": "^0.2.0",
+    "sync-request": "^5.0.0"
+  }
+}
